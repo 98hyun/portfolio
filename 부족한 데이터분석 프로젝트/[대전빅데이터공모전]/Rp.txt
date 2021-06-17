@@ -1,0 +1,16 @@
+## R 
+
+r-essential
+r-base
+
+## visual
+r-ggthemes
+r-ggally
+r-ggalt
+r-treemap
+r-ggdendro
+r-corrplot
+
+## eda
+r-skimr
+r-e1701

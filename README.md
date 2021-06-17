@@ -20,3 +20,7 @@
 | [Big_Contest]코로나가_택배업에_미친_영향분석      | 공모전. 데이터 분석 대회       |
 | [COMPAS]용인시_지역별_상권분석을_통한_창업_지원_대책_도출 | 공모전. 데이터 분석 및 아이디어 제안 대회 |
 | [COMPAS]세종시 주택시장 특성 분석 | 공모전. 데이터 분석 및 시각화 대회 |
+| [DACON]신용카드 연체자 예측 | 데이터 분석 경진 대회 |
+| [DICIA]2021 빅데이터 분석 및 아이디어 공모전 | 공모전. 데이터 분석 및 시각화 |
+| [sejong]2021 AI lecture term project | kaggle 타이타닉분석 with ANN |
+| [sejong]2021 Business Statistics Analysis | 학업성취도 분석 with R |
